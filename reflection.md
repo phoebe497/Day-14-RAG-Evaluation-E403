@@ -3,6 +3,11 @@
 
 ---
 
+**Thông tin học viên:** 
+- *Họ và tên*: Nguyễn Như Yến Phương
+- *MHV*: 2A202600616
+- *Lớp*: E403
+
 ## 1. Benchmark Results Summary
 
 Dưới đây là kết quả tổng hợp từ việc chạy benchmark trên tập dữ liệu Golden Dataset gồm 20 test cases của đại lý tư vấn bất động sản Vinhomes:
